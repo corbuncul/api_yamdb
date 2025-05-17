@@ -45,7 +45,7 @@ API YaMDb поддерживает следующие возможности:
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/VladimirBolshakov13/api_yamdb.git
+    git clone git@github.com:corbuncul/api_yamdb.git
     cd api_yamdb
     ```
 
