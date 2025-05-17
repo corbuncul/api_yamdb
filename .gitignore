@@ -148,3 +148,8 @@ dmypy.json
 # папки со статикой и медиа
 media/
 
+# папки с почтой
+sent_emails/
+
+# файлы request.http
+request.http
